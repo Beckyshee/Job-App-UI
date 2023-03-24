@@ -1,0 +1,18 @@
+[
+    {
+     "company": "hexing",
+     "title": "plumber" ,
+     "logo": "image",
+     "payment": "per day",
+     "location": "someplace",
+     "status": "open"
+
+    },
+    {"company": "hdirangu and son",
+    "title": "electrician" ,
+    "logo": "image",
+    "payment": "to be done after completion",
+    "location": "someplace",
+    "status": "closed"}
+
+]
